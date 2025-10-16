@@ -4,19 +4,19 @@
       "id": 1,
       "nome": "Torsilax",
       "horario": "11:00",
-      "data": "Amanhã",
+      "data": "Amanhã"
     },
     {
       "id": 2,
       "nome": "Paracetamol",
       "horario": "12:00",
-      "data": "Todos os dias",
+      "data": "Todos os dias"
     },
     {
       "id": 3,
       "nome": "Dorflex",
       "horario": "10:00",
-      "data": "Todos os dias",
-    },
+      "data": "Todos os dias"
+    }
   ]
 }
